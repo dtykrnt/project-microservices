@@ -1,0 +1,6 @@
+[submodule "apps/api-gateway"]
+	path = apps/api-gateway
+	url = git@github.com:dtykrnt/api-gateway.git
+[submodule "apps/user-service"]
+	path = apps/user-service
+	url = git@github.com:dtykrnt/user-service.git
